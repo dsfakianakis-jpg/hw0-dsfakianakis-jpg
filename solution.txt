@@ -1,9 +1,0 @@
-byte 0: content: "the very best"
-
-byte 1: to programa supercalifragilisticexpialidocious einai ena bash script pou tuponei 2 minimata stin othoni:
-         1: "Running the program to find out what it does?"
-         2: "Remember, program output is not a manual page - look elsewhere"
-
-byte 2: H frasi "will find" brisketai sto arxeio shakespeare2.txt
-
-byte 3: H nea leji einai "Innovation"
